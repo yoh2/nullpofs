@@ -1,0 +1,9 @@
+*.o
+*.cmd
+
+Module.symvers
+modules.order
+.tmp_versions/
+built-in.a
+nullpofs.mod*
+nullpofs.ko
